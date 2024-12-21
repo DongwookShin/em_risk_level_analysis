@@ -1,0 +1,66 @@
+{"label":"Therapy","pattern":"art therapy"}
+{"label":"Therapy","pattern":"behavioral therapy"}
+{"label":"Therapy","pattern":"cognitive behavioral therapy"}
+{"label":"Therapy","pattern":"family therapy"}
+{"label":"Therapy","pattern":"gestalt therapy"}
+{"label":"Therapy","pattern":"group therapy"}
+{"label":"Therapy","pattern":"hypnotherapy therapy"}
+{"label":"Therapy","pattern":"music therapy"}
+{"label":"Therapy","pattern":"occupational therapy"}
+{"label":"Therapy","pattern":"o.t."}
+{"label":"Therapy","pattern":"physical therapy"}
+{"label":"Therapy","pattern":"p.t."}
+{"label":"Therapy","pattern":"psychoanalytic therapy"}
+{"label":"Therapy","pattern":"speech therapy"}
+{"label":"Needle Procedure","pattern":"blood draw"}
+{"label":"Needle Procedure","pattern":"blood-draw"}
+{"label":"Needle Procedure","pattern":"iv fluid"}
+{"label":"Needle Procedure","pattern":"iv fluids"}
+{"label":"Minor Surgery:  30801, 30802","pattern":"ablation"}
+{"label":"Minor Surgery:  64624, 64640","pattern":"ablation for knee"}
+{"label":"Minor Surgery:  64624, 64640","pattern":"ablation on knee"}
+{"label":"Minor Surgery: 64624, 64640","pattern":"knee ablation"}
+{"label":"Minor Surgery:  64624, 64640","pattern":"ablation of nerves"}
+{"label":"Minor Surgery:  64624, 64640","pattern":"ablation of nerve"}
+{"label":"Minor Surgery:  64624, 64640","pattern":"nerve ablation"}
+{"label":"Minor Surgery:  64624, 64640","pattern":"ablation in shoulder"}
+{"label":"Minor Surgery:  64624, 64640","pattern":"ablation on shoulder"}
+{"label":"Minor Surgery:  64624, 64640","pattern":"shoulder ablation"}
+{"label":"Minor Surgery: ","pattern":"rhizotomy"}
+{"label":"Minor Surgery:  10060, 10061","pattern":"abscess removal"}
+{"label":"Minor Surgery:  10060, 10061","pattern":"abscess surgery"}
+{"label":"Major Surgery:  27650","pattern":"achilles tendonitis"}
+{"label":"Major Surgery:  27650","pattern":"repair achilles tendon"}
+{"label":"Major Surgery:  29888","pattern":"acl surgery"}
+{"label":"Major Surgery:  42820","pattern":"adenoidectomy"}
+{"label":"Major Surgery:  42820","pattern":"removal of tonsil"}
+{"label":"Major Surgery:  35082","pattern":"aneurysm repair"}
+{"label":"Major Surgery:  35082","pattern":"repair artery rupture"}
+{"label":"Major Surgery:  27696","pattern":"ankle ligament repair"}
+{"label":"Major Surgery:  27696","pattern":"repair ankle ligament"}
+{"label":"Major Surgery:  35091, 35102, 35082","pattern":"aortic repair"}
+{"label":"Major Surgery:  35091, 35102, 35082","pattern":"aortic surgery"}
+{"label":"Major Surgery:  35091, 35102, 35082","pattern":"artery repair"}
+{"label":"Major Surgery:  35091, 35102, 35082","pattern":"aortic surgery"}
+{"label":"Major Surgery:  44950, 44960, 44970","pattern":"appendectomy"}
+{"label":"Major Surgery:  44950, 44960, 44970","pattern":"appendix surgery"}
+{"label":"Major Surgery","pattern":"bariatric surgery"}
+{"label":"Major Surgery","pattern":"breast reduction"}
+{"label":"Major Surgery","pattern":"breast reconstruction"}
+{"label":"Minor/Major Surgery","pattern":"excision procedure on middle ear"}
+{"label":"Minor/Major Surgery","pattern":"excision procedures on middle ear"}
+{"label":"Minor/Major Surgery","pattern":"middle ear excision"}
+{"label":"Minor/Major Surgery","pattern":"middle ear excision procedure"}
+{"label":"Minor/Major Surgery","pattern":"middle ear excision procedures"}
+{"label":"Major Surgery","pattern":"hysterectomy"}
+{"label":"Major Surgery","pattern":"hysteroscopy"}
+{"label":"Major Surgery","pattern":"laparoscopic tubal ligation"}
+{"label":"Major Surgery","pattern":"penile implant"}
+{"label":"Major Surgery","pattern":"picc line insertion"}
+{"label":"Major Surgery","pattern":"retinopathy laser procedure"}
+{"label":"Major Surgery","pattern":"retinopathy laser procedures"}
+{"label":"Minor Surgery","pattern":"toe amputation"}
+{"label":"Major Surgery","pattern":"vitrectomy"}
+{"label":"Major Surgery","pattern":"weight loss surgery"}
+{"label":"Major Surgery","pattern":"whipple procedure"}
+{"label":"Major Surgery","pattern":"whipple's procedure"}

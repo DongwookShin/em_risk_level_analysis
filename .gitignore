@@ -1,0 +1,6 @@
+.idea
+
+# Ignore __pycache__ directories
+**/__pycache__/
+**/*.py[cod]
+
